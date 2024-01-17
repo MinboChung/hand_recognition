@@ -6,10 +6,12 @@
 
 #### Todo for next step
 1. Get a webcam or find out how to connect camera laptop
-2. installing usbipd on windows and ```{bash}
+2. installing usbipd on windows and 
+```{bash}
 sudo apt install linux-tools-generic hwdata
 sudo update-alternatives --install /usr/local/bin/usbip usbip /usr/lib/linux-tools/*-generic/usbip 20
-```  for wsl2 is ready to follow the instruction.
+```  
+for wsl2 is ready to follow the instruction.
 
 #### Installing computer vision libraries in WSL2
 
